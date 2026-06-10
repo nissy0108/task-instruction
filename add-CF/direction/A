@@ -1,0 +1,35 @@
+/* Minimal style for demonstration */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+h2 {
+    color: #0056b3;
+}
+h3 {
+    color: #007bff;
+}
+span {
+    font-weight: bold;
+    color: #dc3545;
+}
+.highlight {
+    background-color: yellow;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+li {
+    margin-bottom: 8px;
+}
+footer {
+    margin-top: 40px;
+    font-size: 0.8em;
+    color: #666;
+}
